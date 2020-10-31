@@ -1,0 +1,16 @@
+title: Stories
+amp: true
+template: default
+layout: layout
+mount: 417cc8d0-2f6e-41c4-846d-ffd7d1ddbc61
+revisions: false
+route: '{mount}/{slug}'
+sort_dir: asc
+date_behavior:
+  past: public
+  future: private
+structure:
+  root: false
+  tree:
+    -
+      entry: 48dfa45e-61fe-490f-a33a-3061d396b4e9
